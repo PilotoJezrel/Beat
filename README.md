@@ -1,11 +1,11 @@
-# TechFolio Hub
-TechFolio Mobile App.
+# BEAT
+Beat Mobile App.
 
 # Features
-* Share Projects
-* Message other developers
-* Rate others work
-* Search other developers
+* Listen to your favorite music
+* Message other artist
+* Rate others music
+* Search other music or artist
 
 # Course Overview
 * Basic React Native Components
@@ -19,13 +19,21 @@ TechFolio Mobile App.
 * HTML, CSS and JS
 
 # Home Screen
-<img src="assets/images/screenshot/onboarding.png">  
+<img src="assets/images/screenshot/s1.jpeg">  
 
 # Sign Up Screen
-<img src="assets/images/screenshot/signup.png">  
+<img src="assets/images/screenshot/s3.jpeg">  
 
 # Sign In Screen
-<img src="assets/images/screenshot/login.png">  
+<img src="assets/images/screenshot/s2.jpeg">  
 
 # Tabs Screen
 <img src="assets/images/screenshot/tabs.png">  
+
+# Walkthrough of Beat Mobile App
+* In this video I will show you the code and the app.
+* https://youtu.be/p2_asNeOoj8?si=i0-W0i6rUWT2rwjB
+## Screens
+* Onboarding Screen
+* Sign in Screen
+* Sign up Screen
